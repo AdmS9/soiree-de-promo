@@ -1,2 +1,4 @@
 invités
 -moi
+-personne 1
+-personne 2
